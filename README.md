@@ -1,2 +1,2 @@
-# @vue/cli 3.x Template Project for SPA
+# @vue/cli 3.x Template Project for MPA
 
